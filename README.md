@@ -1,5 +1,7 @@
 # Candy Calculator
 
+[![Build Status](https://travis-ci.org/lfkang/Calculator.svg?branch=master)](https://travis-ci.org/lfkang/Calculator)
+
 Candy-Calculator is a simple 4 function calculator, with a panel that has more advanced functions when you need them. It includes history, real time graphing, base conversion, and more. It also comes with a lockscreen widget, a floating calculator, and a wear app so you can use whichever is most convenient.
 The goal is a simple and uncluttered calculator.
 
